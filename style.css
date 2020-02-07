@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+}
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    border: 3px dashed red;
+    width: 90%;
+    padding: 0 2rem;
+    line-height: 1.5;
+}
+
+.center {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+span {
+    background-color: lightgrey;
+    border-radius: 1px;
+    
+}
+
+ul li {
+    margin-bottom: 0.3rem;;
+}
+
+.info {
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-right: 1.5rem;
+}
+
+.bold {
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 0.5rem;
+}
